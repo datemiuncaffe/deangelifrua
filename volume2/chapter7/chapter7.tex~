@@ -1,0 +1,63 @@
+\chapter[]{Tovaglie e tovaglioli}
+\graphicspath{ {./images/chapter6/} }
+
+Immagini di prodotti dal largo impiego in ambito domestico e familiare.
+
+\newpage
+
+\begin{figure}[h]
+	\centering
+		\includegraphics[width=\textwidth]{tovaglia_1.jpg}
+	\caption{Tovaglia Dimensioni: cm 134 x 124-particolare-.}
+	\label{fig:tovaglia_1}
+\end{figure}
+
+\newpage
+
+\begin{figure}[h]
+	\centering
+		\includegraphics[width=\textwidth]{tovaglia_1_dettagli.jpg}
+	\caption{La stessa tovaglia della pagina precedente con dettagli fronte e retro}
+	\label{fig:tovaglia_1_dettagli}
+\end{figure}
+
+\newpage
+
+\begin{figure}[h]
+	\centering
+		\includegraphics[width=\textwidth]{tovaglia_2.jpg}
+	\caption{Tovaglia. Dimensioni: 250 x 136 cm -particolare-}
+	\label{fig:tovaglia_2}
+\end{figure}
+
+\newpage
+
+\begin{figure}[h]
+	\centering
+		\includegraphics[width=\textwidth]{pezza_di_prova.jpg}
+	\caption{Pezza di prova per produzione di tovaglie e tovaglioli}
+	\label{fig:pezza_di_prova}
+\end{figure}
+
+\newpage
+
+\begin{figure}[h]
+	\centering
+		\includegraphics[width=\textwidth]{tovaglietta_prima_colazione.jpg}
+	\caption{Tovaglietta da prima colazione. Dimensioni: 44 x 33 cm}
+	\label{fig:tovaglietta_prima_colazione}
+\end{figure}
+
+\newpage
+
+\begin{figure}[h]
+	\centering
+		\includegraphics[width=\textwidth]{grembiule_da_cucina.jpg}
+	\caption{Grembiule da cucina}
+	\label{fig:grembiule_da_cucina}
+\end{figure}
+
+\clearpage
+
+
+

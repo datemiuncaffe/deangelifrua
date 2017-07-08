@@ -1,0 +1,23 @@
+\chapter[]{Trame, stampe e disegni}
+\graphicspath{ {./images/chapter4/} }
+
+Questo capitolo raccoglie alcune significative immagini dei principali manufatti d’epoca pre-bellica e bellica del secondo conflitto mondiale.
+
+\newpage
+
+\begin{figure}[h]
+	\centering
+		\includegraphics[width=\textwidth]{tessuto1.jpg}
+	\caption{}
+	\label{fig:tessuto1}
+\end{figure}
+
+
+
+
+
+
+
+
+\clearpage
+
