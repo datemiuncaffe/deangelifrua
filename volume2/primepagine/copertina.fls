@@ -1,0 +1,7 @@
+PWD /home/federico/Documenti/Loredano/repo/deangelifrua/volume2/primepagine
+INPUT /etc/texmf/web2c/texmf.cnf
+INPUT /usr/share/texmf/web2c/texmf.cnf
+INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
+INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
+INPUT copertina.tex
+OUTPUT copertina.log

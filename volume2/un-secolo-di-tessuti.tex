@@ -1,4 +1,4 @@
-\documentclass[a4paper,11pt]{book}
+\documentclass[a5paper,11pt]{book}
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
 \usepackage{gfsbodoni}
@@ -10,6 +10,10 @@
 
 \usepackage{graphicx}
 
+\geometry{
+left=20mm,top=22mm,
+right=14mm,bottom=13mm,
+footskip=5mm}
 
 \DeclareUnicodeCharacter{B0}{\textdegree}
 
@@ -22,6 +26,7 @@
 % \maketitle
 % \tableofcontents
 
+\input{./primepagine/copertina}
 \input{./primepagine/titolo}
 \clearpage
 \input{./primepagine/ringraziamenti}

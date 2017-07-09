@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.6.7)  8 JUL 2017 19:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.6.7)  9 JUL 2017 18:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -988,33 +988,33 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 (./un-secolo-di-tessuti.aux)
 \openout1 = `un-secolo-di-tessuti.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 20.
-LaTeX Font Info:    Try loading font information for LGR+cmr on input line 20.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 24.
+LaTeX Font Info:    Try loading font information for LGR+cmr on input line 24.
 
 (/usr/share/texlive/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
 File: lgrcmr.fd 2013/09/01 v1.0 Greek European Computer Regular
 )
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 20.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 24.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 20.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 24.
 
 (/usr/share/texmf/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -1027,24 +1027,24 @@ Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
 )
 *geometry* verbose mode - [ preamble ] result:
 * driver: pdftex
-* paper: a4paper
+* paper: a5paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: twoside showframe 
-* h-part:(L,W,R)=(71.70166pt, 418.25368pt, 107.55254pt)
-* v-part:(T,H,B)=(101.40665pt, 591.5302pt, 152.11pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=418.25368pt
-* \textheight=591.5302pt
-* \oddsidemargin=-0.56833pt
-* \evensidemargin=35.28255pt
-* \topmargin=-2.73714pt
+* h-part:(L,W,R)=(56.9055pt, 324.36143pt, 39.83385pt)
+* v-part:(T,H,B)=(62.59605pt, 497.92325pt, 36.98857pt)
+* \paperwidth=421.10078pt
+* \paperheight=597.50787pt
+* \textwidth=324.36143pt
+* \textheight=497.92325pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-32.43614pt
+* \topmargin=-41.54773pt
 * \headheight=12.0pt
 * \headsep=19.8738pt
 * \topskip=11.0pt
-* \footskip=27.46295pt
-* \marginparwidth=106.0pt
+* \footskip=14.22636pt
+* \marginparwidth=51.0pt
 * \marginparsep=7.0pt
 * \columnsep=10.0pt
 * \skip\footins=10.0pt plus 4.0pt minus 2.0pt
@@ -1057,8 +1057,8 @@ Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \it@ocap on input line 20.
-LaTeX Info: Redefining \it@ccap on input line 20.
+LaTeX Info: Redefining \it@ocap on input line 24.
+LaTeX Info: Redefining \it@ccap on input line 24.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -1117,11 +1117,26 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-(./primepagine/titolo.tex
+(./primepagine/copertina.tex
 LaTeX Font Info:    Try loading font information for T1+gfsbodoni on input line
- 7.
-LaTeX Font Info:    No file T1gfsbodoni.fd. on input line 7.
+ 8.
+LaTeX Font Info:    No file T1gfsbodoni.fd. on input line 8.
 
+
+LaTeX Font Warning: Font shape `T1/gfsbodoni/b/n' undefined
+(Font)              using `T1/cmr/m/n' instead on input line 8.
+
+
+LaTeX Font Warning: Font shape `T1/cmr/m/n' in size <38> not available
+(Font)              size <35.83> substituted on input line 8.
+
+[1
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}])
+(./primepagine/titolo.tex [2
+
+]
 
 LaTeX Font Warning: Font shape `T1/gfsbodoni/m/n' undefined
 (Font)              using `T1/cmr/m/n' instead on input line 7.
@@ -1130,44 +1145,40 @@ LaTeX Font Warning: Font shape `T1/gfsbodoni/m/n' undefined
 LaTeX Font Warning: Font shape `T1/cmr/m/n' in size <56.9055> not available
 (Font)              size <35.83> substituted on input line 7.
 
-[1
-
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}])
-(./primepagine/ringraziamenti.tex [2
+[1]) (./primepagine/ringraziamenti.tex [2
 
 
 
-] [3]) (./primepagine/premessa.tex [4
+] [3]) (./primepagine/premessa.tex
+[4
 
 
 
-]
-<./images/primepagine/marina_frua.jpg, id=19, 2184.16pt x 3276.24pt>
+] <./images/primepagine/marina_frua.jpg, id=25, 2184.16pt x 3276.24pt>
 File: ./images/primepagine/marina_frua.jpg Graphic file (type jpg)
 
 <use ./images/primepagine/marina_frua.jpg>
 Package pdftex.def Info: ./images/primepagine/marina_frua.jpg used on input lin
 e 10.
-(pdftex.def)             Requested size: 418.25368pt x 627.34125pt.
+(pdftex.def)             Requested size: 324.36143pt x 486.51566pt.
 
 
-LaTeX Warning: Float too large for page by 61.54019pt on input line 13.
+LaTeX Warning: Float too large for page by 14.32155pt on input line 13.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Underfull \vbox (badness 2512) has occurred while \output is active []
+Underfull \vbox (badness 3690) has occurred while \output is active []
 
  [5]
-<./images/primepagine/marina_frua_firma.jpg, id=23, 184.64986pt x 51.19125pt>
+<./images/primepagine/marina_frua_firma.jpg, id=30, 184.64986pt x 51.19125pt>
 File: ./images/primepagine/marina_frua_firma.jpg Graphic file (type jpg)
 
 <use ./images/primepagine/marina_frua_firma.jpg>
 Package pdftex.def Info: ./images/primepagine/marina_frua_firma.jpg used on inp
 ut line 29.
-(pdftex.def)             Requested size: 418.25368pt x 115.96893pt.
+(pdftex.def)             Requested size: 324.36143pt x 89.93517pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -1175,13 +1186,13 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 [6] [7 <./images/primepagine/marina_frua.jpg>] [8 <./images/primepagine/marina_
 frua_firma.jpg>]) (./chapter1/chapter1.tex
 Capitolo 1.
-<./images/chapter1/britishEmpire.jpg, id=34, 277.5168pt x 260.05154pt>
+<./images/chapter1/britishEmpire.jpg, id=40, 277.5168pt x 260.05154pt>
 File: ./images/chapter1/britishEmpire.jpg Graphic file (type jpg)
 
 <use ./images/chapter1/britishEmpire.jpg>
 Package pdftex.def Info: ./images/chapter1/britishEmpire.jpg used on input line
  6.
-(pdftex.def)             Requested size: 418.25368pt x 391.95325pt.
+(pdftex.def)             Requested size: 324.36143pt x 303.96544pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -1194,1394 +1205,1351 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 LaTeX Font Info:    Try loading font information for TS1+lmr on input line 16.
  (/usr/share/texmf/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-) [10]
-<./images/chapter1/britishInstruct.jpg, id=43, 284.5029pt x 387.96945pt>
+) [10 <./images/chapter1/britishEmpire.jpg>] [11]
+<./images/chapter1/britishInstruct.jpg, id=53, 284.5029pt x 387.96945pt>
 File: ./images/chapter1/britishInstruct.jpg Graphic file (type jpg)
 
 <use ./images/chapter1/britishInstruct.jpg>
 Package pdftex.def Info: ./images/chapter1/britishInstruct.jpg used on input li
 ne 26.
-(pdftex.def)             Requested size: 418.25368pt x 570.36151pt.
-
-
-LaTeX Warning: Float too large for page by 4.56046pt on input line 29.
+(pdftex.def)             Requested size: 324.36143pt x 442.32527pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[11]) [12 <./images/chapter1/britishEmpire.jpg>] [13 <./images/chapter1/british
-Instruct.jpg>] (./chapter2/chapter2.tex [14
+[12]) [13 <./images/chapter1/britishInstruct.jpg>] (./chapter2/chapter2.tex
+[14
 
 
 ]
 Capitolo 2.
-<./images/chapter2/deangelifrua.jpg, id=57, 360.6273pt x 512.1534pt>
+<./images/chapter2/deangelifrua.jpg, id=63, 360.6273pt x 512.1534pt>
 File: ./images/chapter2/deangelifrua.jpg Graphic file (type jpg)
 
 <use ./images/chapter2/deangelifrua.jpg>
 Package pdftex.def Info: ./images/chapter2/deangelifrua.jpg used on input line 
 6.
-(pdftex.def)             Requested size: 418.25368pt x 593.98895pt.
-
-
-LaTeX Warning: Float too large for page by 28.1879pt on input line 9.
+(pdftex.def)             Requested size: 324.36143pt x 460.64465pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[15] [16]
-<./images/chapter2/fazzoletto1_cartaitalia.jpg, id=64, 284.5029pt x 258.0039pt>
+[15]
+Underfull \vbox (badness 2035) has occurred while \output is active []
+
+ [16]
+[17]
+<./images/chapter2/fazzoletto1_cartaitalia.jpg, id=74, 284.5029pt x 258.0039pt>
 File: ./images/chapter2/fazzoletto1_cartaitalia.jpg Graphic file (type jpg)
 <use ./images/chapter2/fazzoletto1_cartaitalia.jpg>
 Package pdftex.def Info: ./images/chapter2/fazzoletto1_cartaitalia.jpg used on 
 input line 35.
-(pdftex.def)             Requested size: 418.25368pt x 379.2966pt.
+(pdftex.def)             Requested size: 324.36143pt x 294.15111pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[17] <./images/chapter2/fazzoletto2.jpg, id=68, 341.3553pt x 290.0436pt>
+[18] <./images/chapter2/fazzoletto2.jpg, id=78, 341.3553pt x 290.0436pt>
 File: ./images/chapter2/fazzoletto2.jpg Graphic file (type jpg)
 
 <use ./images/chapter2/fazzoletto2.jpg>
 Package pdftex.def Info: ./images/chapter2/fazzoletto2.jpg used on input line 4
 4.
-(pdftex.def)             Requested size: 418.25368pt x 355.3928pt.
+(pdftex.def)             Requested size: 324.36143pt x 275.61066pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./images/chapter2/deangelifrua_2.jpg, id=69, 670.505pt x 972.63374pt>
+<./images/chapter2/deangelifrua_2.jpg, id=79, 670.505pt x 972.63374pt>
 File: ./images/chapter2/deangelifrua_2.jpg Graphic file (type jpg)
 
 <use ./images/chapter2/deangelifrua_2.jpg>
 Package pdftex.def Info: ./images/chapter2/deangelifrua_2.jpg used on input lin
 e 53.
-(pdftex.def)             Requested size: 418.25368pt x 606.7073pt.
-
-
-LaTeX Warning: Float too large for page by 40.90625pt on input line 56.
+(pdftex.def)             Requested size: 324.36143pt x 470.50983pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[18]
-<./images/chapter2/fazzoletto2A_rollfs.jpg, id=73, 341.3553pt x 294.3798pt>
+
+Underfull \vbox (badness 2035) has occurred while \output is active []
+
+ [19]
+[20]
+<./images/chapter2/fazzoletto2A_rollfs.jpg, id=86, 341.3553pt x 294.3798pt>
 File: ./images/chapter2/fazzoletto2A_rollfs.jpg Graphic file (type jpg)
 
 <use ./images/chapter2/fazzoletto2A_rollfs.jpg>
 Package pdftex.def Info: ./images/chapter2/fazzoletto2A_rollfs.jpg used on inpu
 t line 80.
-(pdftex.def)             Requested size: 418.25368pt x 360.706pt.
+(pdftex.def)             Requested size: 324.36143pt x 279.73108pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[19] <./images/chapter2/fazzoletto3.jpg, id=78, 341.3553pt x 294.3798pt>
+[21] <./images/chapter2/fazzoletto3.jpg, id=90, 341.3553pt x 294.3798pt>
 File: ./images/chapter2/fazzoletto3.jpg Graphic file (type jpg)
 
 <use ./images/chapter2/fazzoletto3.jpg>
 Package pdftex.def Info: ./images/chapter2/fazzoletto3.jpg used on input line 8
 9.
-(pdftex.def)             Requested size: 418.25368pt x 360.706pt.
+(pdftex.def)             Requested size: 324.36143pt x 279.73108pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./images/chapter2/deangelifrua_3.jpg, id=79, 347.1369pt x 512.1534pt>
+<./images/chapter2/deangelifrua_3.jpg, id=91, 347.1369pt x 512.1534pt>
 File: ./images/chapter2/deangelifrua_3.jpg Graphic file (type jpg)
 
 <use ./images/chapter2/deangelifrua_3.jpg>
 Package pdftex.def Info: ./images/chapter2/deangelifrua_3.jpg used on input lin
 e 98.
-(pdftex.def)             Requested size: 418.25368pt x 617.08957pt.
+(pdftex.def)             Requested size: 324.36143pt x 478.56404pt.
 
 
-LaTeX Warning: Float too large for page by 51.28851pt on input line 101.
+LaTeX Warning: Float too large for page by 6.36993pt on input line 101.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[20] <./images/chapter2/deangelifrua_4.jpg, id=83, 353.4003pt x 512.1534pt>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [22]
+[23] <./images/chapter2/deangelifrua_4.jpg, id=99, 353.4003pt x 512.1534pt>
 File: ./images/chapter2/deangelifrua_4.jpg Graphic file (type jpg)
 
 <use ./images/chapter2/deangelifrua_4.jpg>
 Package pdftex.def Info: ./images/chapter2/deangelifrua_4.jpg used on input lin
 e 117.
-(pdftex.def)             Requested size: 418.25368pt x 606.18007pt.
-
-
-LaTeX Warning: Float too large for page by 40.37901pt on input line 120.
+(pdftex.def)             Requested size: 324.36143pt x 470.10059pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[21] <./images/chapter2/deangelifrua_5.jpg, id=87, 359.89977pt x 512.1534pt>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [24]
+[25] <./images/chapter2/deangelifrua_5.jpg, id=106, 359.89977pt x 512.1534pt>
 File: ./images/chapter2/deangelifrua_5.jpg Graphic file (type jpg)
 
 <use ./images/chapter2/deangelifrua_5.jpg>
 Package pdftex.def Info: ./images/chapter2/deangelifrua_5.jpg used on input lin
 e 136.
-(pdftex.def)             Requested size: 418.25368pt x 595.2315pt.
-
-
-LaTeX Warning: Float too large for page by 29.43045pt on input line 139.
+(pdftex.def)             Requested size: 324.36143pt x 461.60587pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[22]
-<./images/chapter2/fazzoletto4_cavalleria.jpg, id=91, 341.3553pt x 291.2481pt>
-File: ./images/chapter2/fazzoletto4_cavalleria.jpg Graphic file (type jpg)
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [26]
+[27]
+<./images/chapter2/fazzoletto4_cavalleria.jpg, id=113, 341.3553pt x 291.2481pt>
+File: ./images/chapter2/fazzoletto4_cavalleria.jpg Graphic file (type jpg)
 <use ./images/chapter2/fazzoletto4_cavalleria.jpg>
 Package pdftex.def Info: ./images/chapter2/fazzoletto4_cavalleria.jpg used on i
 nput line 152.
-(pdftex.def)             Requested size: 418.25368pt x 356.86868pt.
+(pdftex.def)             Requested size: 324.36143pt x 276.75522pt.
+
+Underfull \hbox (badness 2050) in paragraph at lines 153--153
+[]\T1/lmr/m/n/10.95 Figura 2.10: Faz-zo-let-to mi-li-ta-re ita-lia-no n\TS1/lmr
+/m/n/10.95 °\T1/lmr/m/n/10.95 4 per Ca-val-le-ria.
+ []
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[23]
-<./images/chapter2/fazzoletto_armipesanti.jpg, id=95, 284.5029pt x 262.581pt>
+[28]
+<./images/chapter2/fazzoletto_armipesanti.jpg, id=117, 284.5029pt x 262.581pt>
 File: ./images/chapter2/fazzoletto_armipesanti.jpg Graphic file (type jpg)
 
 <use ./images/chapter2/fazzoletto_armipesanti.jpg>
 Package pdftex.def Info: ./images/chapter2/fazzoletto_armipesanti.jpg used on i
 nput line 161.
-(pdftex.def)             Requested size: 418.25368pt x 386.02547pt.
+(pdftex.def)             Requested size: 324.36143pt x 299.36946pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./images/chapter2/deangelifrua_6.jpg, id=96, 373.6359pt x 463.2507pt>
+<./images/chapter2/deangelifrua_6.jpg, id=118, 373.6359pt x 463.2507pt>
 File: ./images/chapter2/deangelifrua_6.jpg Graphic file (type jpg)
 
 <use ./images/chapter2/deangelifrua_6.jpg>
 Package pdftex.def Info: ./images/chapter2/deangelifrua_6.jpg used on input lin
 e 170.
-(pdftex.def)             Requested size: 418.25368pt x 518.58276pt.
+(pdftex.def)             Requested size: 324.36143pt x 402.16248pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[24]
-<./images/chapter2/fazzoletto5_cartaitalia.jpg, id=100, 341.3553pt x 321.3606pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [29]
+[30]
+<./images/chapter2/fazzoletto5_cartaitalia.jpg, id=126, 341.3553pt x 321.3606pt
 >
 File: ./images/chapter2/fazzoletto5_cartaitalia.jpg Graphic file (type jpg)
  <use ./images/chapter2/fazzoletto5_cartaitalia.jpg>
 Package pdftex.def Info: ./images/chapter2/fazzoletto5_cartaitalia.jpg used on 
 input line 187.
-(pdftex.def)             Requested size: 418.25368pt x 393.76578pt.
+(pdftex.def)             Requested size: 324.36143pt x 305.36928pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-<./images/chapter2/fazzoletto6_cartaitalia.jpg, id=101, 341.3553pt x 376.2858pt
+<./images/chapter2/fazzoletto6_cartaitalia.jpg, id=127, 341.3553pt x 376.2858pt
 >
 File: ./images/chapter2/fazzoletto6_cartaitalia.jpg Graphic file (type jpg)
  <use ./images/chapter2/fazzoletto6_cartaitalia.jpg>
 Package pdftex.def Info: ./images/chapter2/fazzoletto6_cartaitalia.jpg used on 
 input line 196.
-(pdftex.def)             Requested size: 418.25368pt x 461.06609pt.
+(pdftex.def)             Requested size: 324.36143pt x 357.56134pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./images/chapter2/deangelifrua_7.jpg, id=102, 355.0866pt x 512.1534pt>
+<./images/chapter2/deangelifrua_7.jpg, id=128, 355.0866pt x 512.1534pt>
 File: ./images/chapter2/deangelifrua_7.jpg Graphic file (type jpg)
 
 <use ./images/chapter2/deangelifrua_7.jpg>
 Package pdftex.def Info: ./images/chapter2/deangelifrua_7.jpg used on input lin
 e 205.
-(pdftex.def)             Requested size: 418.25368pt x 603.2964pt.
-
-
-LaTeX Warning: Float too large for page by 37.49535pt on input line 208.
+(pdftex.def)             Requested size: 324.36143pt x 467.86554pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[25] <./images/chapter2/deangelifrua_8.jpg, id=107, 390.258pt x 455.301pt>
+[31] <./images/chapter2/deangelifrua_8.jpg, id=132, 390.258pt x 455.301pt>
 File: ./images/chapter2/deangelifrua_8.jpg Graphic file (type jpg)
 
 <use ./images/chapter2/deangelifrua_8.jpg>
 Package pdftex.def Info: ./images/chapter2/deangelifrua_8.jpg used on input lin
 e 225.
-(pdftex.def)             Requested size: 418.25368pt x 487.9662pt.
+(pdftex.def)             Requested size: 324.36143pt x 378.42772pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Underfull \vbox (badness 1264) has occurred while \output is active []
+Underfull \vbox (badness 2035) has occurred while \output is active []
 
- [26]
-[27]
-<./images/chapter2/fazzoletto1_dettaglio.jpg, id=114, 85.5195pt x 78.0516pt>
+ [32]
+[33]
+<./images/chapter2/fazzoletto1_dettaglio.jpg, id=139, 85.5195pt x 78.0516pt>
 File: ./images/chapter2/fazzoletto1_dettaglio.jpg Graphic file (type jpg)
 
 <use ./images/chapter2/fazzoletto1_dettaglio.jpg>
 Package pdftex.def Info: ./images/chapter2/fazzoletto1_dettaglio.jpg used on in
 put line 255.
-(pdftex.def)             Requested size: 418.25368pt x 381.81543pt.
+(pdftex.def)             Requested size: 324.36143pt x 296.10251pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./images/chapter2/fazzoletto1_lettera.jpg, id=115, 622.325pt x 879.285pt>
+<./images/chapter2/fazzoletto1_lettera.jpg, id=140, 622.325pt x 879.285pt>
 File: ./images/chapter2/fazzoletto1_lettera.jpg Graphic file (type jpg)
 
 <use ./images/chapter2/fazzoletto1_lettera.jpg>
 Package pdftex.def Info: ./images/chapter2/fazzoletto1_lettera.jpg used on inpu
 t line 264.
-(pdftex.def)             Requested size: 418.25368pt x 590.95601pt.
-
-
-LaTeX Warning: Float too large for page by 36.62582pt on input line 267.
+(pdftex.def)             Requested size: 324.36143pt x 458.29077pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-<./images/chapter2/richiestaautorizzazionestampa.jpg, id=116, 341.3553pt x 241.
+<./images/chapter2/richiestaautorizzazionestampa.jpg, id=141, 341.3553pt x 241.
 6227pt>
 File: ./images/chapter2/richiestaautorizzazionestampa.jpg Graphic file (type jp
 g)
  <use ./images/chapter2/richiestaautorizzazionestampa.jpg>
 Package pdftex.def Info: ./images/chapter2/richiestaautorizzazionestampa.jpg us
 ed on input line 273.
-(pdftex.def)             Requested size: 418.25368pt x 296.06227pt.
+(pdftex.def)             Requested size: 324.36143pt x 229.59924pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[28 <./images/chapter2/deangelifrua.jpg>] [29 <./images/chapter2/fazzoletto1_ca
-rtaitalia.jpg>] [30 <./images/chapter2/fazzoletto2.jpg>] [31 <./images/chapter2
-/deangelifrua_2.jpg>] [32 <./images/chapter2/fazzoletto2A_rollfs.jpg>] [33 <./i
-mages/chapter2/fazzoletto3.jpg>] [34 <./images/chapter2/deangelifrua_3.jpg>]
-[35 <./images/chapter2/deangelifrua_4.jpg>] [36 <./images/chapter2/deangelifrua
-_5.jpg>] [37 <./images/chapter2/fazzoletto4_cavalleria.jpg>] [38 <./images/chap
-ter2/fazzoletto_armipesanti.jpg>] [39 <./images/chapter2/deangelifrua_6.jpg>]
-[40 <./images/chapter2/fazzoletto5_cartaitalia.jpg>] [41 <./images/chapter2/faz
-zoletto6_cartaitalia.jpg>] [42 <./images/chapter2/deangelifrua_7.jpg>] [43 <./i
-mages/chapter2/deangelifrua_8.jpg>] [44 <./images/chapter2/fazzoletto1_dettagli
-o.jpg>] [45 <./images/chapter2/fazzoletto1_lettera.jpg>] [46 <./images/chapter2
+[34 <./images/chapter2/deangelifrua.jpg>] [35 <./images/chapter2/fazzoletto1_ca
+rtaitalia.jpg>] [36 <./images/chapter2/fazzoletto2.jpg>] [37 <./images/chapter2
+/deangelifrua_2.jpg>] [38 <./images/chapter2/fazzoletto2A_rollfs.jpg>] [39 <./i
+mages/chapter2/fazzoletto3.jpg>] [40 <./images/chapter2/deangelifrua_3.jpg>]
+[41 <./images/chapter2/deangelifrua_4.jpg>] [42 <./images/chapter2/deangelifrua
+_5.jpg>] [43 <./images/chapter2/fazzoletto4_cavalleria.jpg>] [44 <./images/chap
+ter2/fazzoletto_armipesanti.jpg>] [45 <./images/chapter2/deangelifrua_6.jpg>]
+[46 <./images/chapter2/fazzoletto5_cartaitalia.jpg>] [47 <./images/chapter2/faz
+zoletto6_cartaitalia.jpg>] [48 <./images/chapter2/deangelifrua_7.jpg>] [49 <./i
+mages/chapter2/deangelifrua_8.jpg>] [50 <./images/chapter2/fazzoletto1_dettagli
+o.jpg>] [51 <./images/chapter2/fazzoletto1_lettera.jpg>] [52 <./images/chapter2
 /richiestaautorizzazionestampa.jpg>]) (./chapter3/chapter3.tex
 Capitolo 3.
-[47
+[53
 
 
 
-] [48]
+]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [49]
-[50]
-<./images/chapter3/fazzoletto2_particolare.jpg, id=190, 341.3553pt x 102.6234pt
+ [54]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [55]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [56]
+[57]
+<./images/chapter3/fazzoletto2_particolare.jpg, id=219, 341.3553pt x 102.6234pt
 >
 File: ./images/chapter3/fazzoletto2_particolare.jpg Graphic file (type jpg)
  <use ./images/chapter3/fazzoletto2_particolare.jpg>
 Package pdftex.def Info: ./images/chapter3/fazzoletto2_particolare.jpg used on 
 input line 50.
-(pdftex.def)             Requested size: 418.25368pt x 125.74529pt.
- [51 <./images/chapter3/fazzoletto2_particolare.jpg>]
-<./images/chapter3/fazzoletto1_particolare.jpg, id=195, 227.6505pt x 236.5638pt
+(pdftex.def)             Requested size: 324.36143pt x 97.51671pt.
+
+Underfull \hbox (badness 6641) in paragraph at lines 51--51
+[]\T1/lmr/m/n/10.95 Figura 3.1: Par-ti-co-la-re faz-zo-let-to mi-li-ta-re ita-l
+ia-no n\TS1/lmr/m/n/10.95 ° \T1/lmr/m/n/10.95 2.
+ []
+
+[58 <./images/chapter3/fazzoletto2_particolare.jpg>]
+<./images/chapter3/fazzoletto1_particolare.jpg, id=223, 227.6505pt x 236.5638pt
 >
 File: ./images/chapter3/fazzoletto1_particolare.jpg Graphic file (type jpg)
  <use ./images/chapter3/fazzoletto1_particolare.jpg>
 Package pdftex.def Info: ./images/chapter3/fazzoletto1_particolare.jpg used on 
 input line 59.
-(pdftex.def)             Requested size: 418.25368pt x 434.67621pt.
- [52 <./images/chapter3/fazzoletto1_particolare.jpg>]
-<./images/chapter3/fazzoletto2_particolare_2.jpg, id=199, 244.2726pt x 205.2468
+(pdftex.def)             Requested size: 324.36143pt x 337.09605pt.
+ [59 <./images/chapter3/fazzoletto1_particolare.jpg>]
+<./images/chapter3/fazzoletto2_particolare_2.jpg, id=228, 244.2726pt x 205.2468
 pt>
 File: ./images/chapter3/fazzoletto2_particolare_2.jpg Graphic file (type jpg)
  <use ./images/chapter3/fazzoletto2_particolare_2.jpg>
 Package pdftex.def Info: ./images/chapter3/fazzoletto2_particolare_2.jpg used o
 n input line 68.
-(pdftex.def)             Requested size: 418.25368pt x 351.46106pt.
- [53 <./images/chapter3/fazzoletto2_particolare_2.jpg>]
-<./images/chapter3/fazzoletto2_particolare_3.jpg, id=203, 108.8868pt x 104.3097
+(pdftex.def)             Requested size: 324.36143pt x 272.56451pt.
+ [60 <./images/chapter3/fazzoletto2_particolare_2.jpg>]
+<./images/chapter3/fazzoletto2_particolare_3.jpg, id=232, 108.8868pt x 104.3097
 pt>
 File: ./images/chapter3/fazzoletto2_particolare_3.jpg Graphic file (type jpg)
  <use ./images/chapter3/fazzoletto2_particolare_3.jpg>
 Package pdftex.def Info: ./images/chapter3/fazzoletto2_particolare_3.jpg used o
 n input line 77.
-(pdftex.def)             Requested size: 418.25368pt x 400.71336pt.
+(pdftex.def)             Requested size: 324.36143pt x 310.7589pt.
 
-<./images/chapter3/fazzoletto2_particolare_4.jpg, id=204, 107.9232pt x 95.8782p
+<./images/chapter3/fazzoletto2_particolare_4.jpg, id=233, 107.9232pt x 95.8782p
 t>
 File: ./images/chapter3/fazzoletto2_particolare_4.jpg Graphic file (type jpg)
  <use ./images/chapter3/fazzoletto2_particolare_4.jpg>
 Package pdftex.def Info: ./images/chapter3/fazzoletto2_particolare_4.jpg used o
 n input line 79.
-(pdftex.def)             Requested size: 418.25368pt x 371.6309pt.
+(pdftex.def)             Requested size: 324.36143pt x 288.20439pt.
 
 
-LaTeX Warning: Float too large for page by 219.01408pt on input line 82.
+LaTeX Warning: Float too large for page by 141.36919pt on input line 82.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-<./images/chapter3/fazzoletto2A_particolare.jpg, id=205, 170.0754pt x 191.9973p
+<./images/chapter3/fazzoletto2A_particolare.jpg, id=234, 170.0754pt x 191.9973p
 t>
 File: ./images/chapter3/fazzoletto2A_particolare.jpg Graphic file (type jpg)
  <use ./images/chapter3/fazzoletto2A_particolare.jpg>
 Package pdftex.def Info: ./images/chapter3/fazzoletto2A_particolare.jpg used on
  input line 88.
-(pdftex.def)             Requested size: 418.25368pt x 472.19624pt.
+(pdftex.def)             Requested size: 324.36143pt x 366.19606pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-<./images/chapter3/fazzoletto2A_particolare_2.jpg, id=206, 97.8054pt x 140.4447
+<./images/chapter3/fazzoletto2A_particolare_2.jpg, id=235, 97.8054pt x 140.4447
 pt>
 File: ./images/chapter3/fazzoletto2A_particolare_2.jpg Graphic file (type jpg)
  <use ./images/chapter3/fazzoletto2A_particolare_2.jpg>
 Package pdftex.def Info: ./images/chapter3/fazzoletto2A_particolare_2.jpg used 
 on input line 97.
-(pdftex.def)             Requested size: 418.25368pt x 600.74162pt.
-
-
-LaTeX Warning: Float too large for page by 34.94057pt on input line 100.
+(pdftex.def)             Requested size: 324.36143pt x 465.8841pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-<./images/chapter3/fazzoletto2A_particolare_3.jpg, id=207, 227.6505pt x 512.153
+<./images/chapter3/fazzoletto2A_particolare_3.jpg, id=236, 227.6505pt x 512.153
 4pt>
 File: ./images/chapter3/fazzoletto2A_particolare_3.jpg Graphic file (type jpg)
  <use ./images/chapter3/fazzoletto2A_particolare_3.jpg>
 Package pdftex.def Info: ./images/chapter3/fazzoletto2A_particolare_3.jpg used 
 on input line 108.
-(pdftex.def)             Requested size: 418.25368pt x 941.0608pt.
+(pdftex.def)             Requested size: 324.36143pt x 729.80273pt.
 
 
-LaTeX Warning: Float too large for page by 375.25975pt on input line 111.
+LaTeX Warning: Float too large for page by 257.60863pt on input line 111.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[54]
-<./images/chapter3/fazzoletto2A_particolare_4.jpg, id=211, 227.6505pt x 512.153
+[61]
+<./images/chapter3/fazzoletto2A_particolare_4.jpg, id=240, 227.6505pt x 512.153
 4pt>
 File: ./images/chapter3/fazzoletto2A_particolare_4.jpg Graphic file (type jpg)
  <use ./images/chapter3/fazzoletto2A_particolare_4.jpg>
 Package pdftex.def Info: ./images/chapter3/fazzoletto2A_particolare_4.jpg used 
 on input line 117.
-(pdftex.def)             Requested size: 418.25368pt x 941.0608pt.
+(pdftex.def)             Requested size: 324.36143pt x 729.80273pt.
 
 
-LaTeX Warning: Float too large for page by 375.25975pt on input line 120.
+LaTeX Warning: Float too large for page by 257.60863pt on input line 120.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-<./images/chapter3/fazzoletto2A_particolare_5.jpg, id=212, 211.5102pt x 512.153
+<./images/chapter3/fazzoletto2A_particolare_5.jpg, id=241, 211.5102pt x 512.153
 4pt>
 File: ./images/chapter3/fazzoletto2A_particolare_5.jpg Graphic file (type jpg)
  <use ./images/chapter3/fazzoletto2A_particolare_5.jpg>
 Package pdftex.def Info: ./images/chapter3/fazzoletto2A_particolare_5.jpg used 
 on input line 126.
-(pdftex.def)             Requested size: 418.25368pt x 1012.80869pt.
+(pdftex.def)             Requested size: 324.36143pt x 785.44426pt.
 
 
-LaTeX Warning: Float too large for page by 447.00763pt on input line 129.
+LaTeX Warning: Float too large for page by 313.25015pt on input line 129.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-<./images/chapter3/fazzoletto3_particolare.jpg, id=213, 327.3831pt x 300.6432pt
+<./images/chapter3/fazzoletto3_particolare.jpg, id=242, 327.3831pt x 300.6432pt
 >
 File: ./images/chapter3/fazzoletto3_particolare.jpg Graphic file (type jpg)
  <use ./images/chapter3/fazzoletto3_particolare.jpg>
 Package pdftex.def Info: ./images/chapter3/fazzoletto3_particolare.jpg used on 
 input line 135.
-(pdftex.def)             Requested size: 418.25368pt x 384.09715pt.
+(pdftex.def)             Requested size: 324.36143pt x 297.87163pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-<./images/chapter3/fazzoletto3_particolare_2.jpg, id=214, 149.358pt x 92.2647pt
+<./images/chapter3/fazzoletto3_particolare_2.jpg, id=243, 149.358pt x 92.2647pt
 >
 File: ./images/chapter3/fazzoletto3_particolare_2.jpg Graphic file (type jpg)
  <use ./images/chapter3/fazzoletto3_particolare_2.jpg>
 Package pdftex.def Info: ./images/chapter3/fazzoletto3_particolare_2.jpg used o
 n input line 144.
-(pdftex.def)             Requested size: 418.25368pt x 258.39568pt.
+(pdftex.def)             Requested size: 324.36143pt x 200.3897pt.
 
-<./images/chapter3/fazzoletto3_particolare_3.jpg, id=215, 185.0112pt x 110.0913
+<./images/chapter3/fazzoletto3_particolare_3.jpg, id=244, 185.0112pt x 110.0913
 pt>
 File: ./images/chapter3/fazzoletto3_particolare_3.jpg Graphic file (type jpg)
  <use ./images/chapter3/fazzoletto3_particolare_3.jpg>
 Package pdftex.def Info: ./images/chapter3/fazzoletto3_particolare_3.jpg used o
 n input line 146.
-(pdftex.def)             Requested size: 418.25368pt x 248.89577pt.
+(pdftex.def)             Requested size: 324.36143pt x 193.0221pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-<./images/chapter3/fazzoletto3_particolare_4.jpg, id=216, 94.1919pt x 96.6009pt
+<./images/chapter3/fazzoletto3_particolare_4.jpg, id=245, 94.1919pt x 96.6009pt
 >
 File: ./images/chapter3/fazzoletto3_particolare_4.jpg Graphic file (type jpg)
  <use ./images/chapter3/fazzoletto3_particolare_4.jpg>
 Package pdftex.def Info: ./images/chapter3/fazzoletto3_particolare_4.jpg used o
 n input line 155.
-(pdftex.def)             Requested size: 418.25368pt x 428.96901pt.
+(pdftex.def)             Requested size: 324.36143pt x 332.67053pt.
 
-<./images/chapter3/fazzoletto3_particolare_5.jpg, id=217, 106.2369pt x 88.1694p
+<./images/chapter3/fazzoletto3_particolare_5.jpg, id=246, 106.2369pt x 88.1694p
 t>
 File: ./images/chapter3/fazzoletto3_particolare_5.jpg Graphic file (type jpg)
  <use ./images/chapter3/fazzoletto3_particolare_5.jpg>
 Package pdftex.def Info: ./images/chapter3/fazzoletto3_particolare_5.jpg used o
 n input line 157.
-(pdftex.def)             Requested size: 418.25368pt x 347.17957pt.
+(pdftex.def)             Requested size: 324.36143pt x 269.24316pt.
 
 
-LaTeX Warning: Float too large for page by 211.34752pt on input line 160.
+LaTeX Warning: Float too large for page by 130.71959pt on input line 160.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-<./images/chapter3/fazzoletto4_particolare.jpg, id=218, 228.3732pt x 180.4341pt
+<./images/chapter3/fazzoletto4_particolare.jpg, id=247, 228.3732pt x 180.4341pt
 >
 File: ./images/chapter3/fazzoletto4_particolare.jpg Graphic file (type jpg)
  <use ./images/chapter3/fazzoletto4_particolare.jpg>
 Package pdftex.def Info: ./images/chapter3/fazzoletto4_particolare.jpg used on 
 input line 166.
-(pdftex.def)             Requested size: 418.25368pt x 330.49673pt.
+(pdftex.def)             Requested size: 324.36143pt x 256.30353pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-<./images/chapter3/fazzoletto4_particolare_2.jpg, id=219, 149.8398pt x 127.4361
+<./images/chapter3/fazzoletto4_particolare_2.jpg, id=248, 149.8398pt x 127.4361
 pt>
 File: ./images/chapter3/fazzoletto4_particolare_2.jpg Graphic file (type jpg)
  <use ./images/chapter3/fazzoletto4_particolare_2.jpg>
 Package pdftex.def Info: ./images/chapter3/fazzoletto4_particolare_2.jpg used o
 n input line 175.
-(pdftex.def)             Requested size: 418.25368pt x 355.78024pt.
+(pdftex.def)             Requested size: 324.36143pt x 275.91315pt.
 
-<./images/chapter3/fazzoletto4_particolare_3.jpg, id=220, 145.7445pt x 129.1224
+<./images/chapter3/fazzoletto4_particolare_3.jpg, id=249, 145.7445pt x 129.1224
 pt>
 File: ./images/chapter3/fazzoletto4_particolare_3.jpg Graphic file (type jpg)
  <use ./images/chapter3/fazzoletto4_particolare_3.jpg>
 Package pdftex.def Info: ./images/chapter3/fazzoletto4_particolare_3.jpg used o
 n input line 177.
-(pdftex.def)             Requested size: 418.25368pt x 370.61522pt.
+(pdftex.def)             Requested size: 324.36143pt x 287.4176pt.
 
 
-LaTeX Warning: Float too large for page by 161.5944pt on input line 180.
+LaTeX Warning: Float too large for page by 92.13664pt on input line 180.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-<./images/chapter3/fazzoletto4_particolare_4.jpg, id=221, 90.0966pt x 87.9285pt
+<./images/chapter3/fazzoletto4_particolare_4.jpg, id=250, 90.0966pt x 87.9285pt
 >
 File: ./images/chapter3/fazzoletto4_particolare_4.jpg Graphic file (type jpg)
  <use ./images/chapter3/fazzoletto4_particolare_4.jpg>
 Package pdftex.def Info: ./images/chapter3/fazzoletto4_particolare_4.jpg used o
 n input line 186.
-(pdftex.def)             Requested size: 418.25368pt x 408.20042pt.
+(pdftex.def)             Requested size: 324.36143pt x 316.56511pt.
 
-<./images/chapter3/fazzoletto4_particolare_5.jpg, id=222, 90.8193pt x 80.2197pt
+<./images/chapter3/fazzoletto4_particolare_5.jpg, id=251, 90.8193pt x 80.2197pt
 >
 File: ./images/chapter3/fazzoletto4_particolare_5.jpg Graphic file (type jpg)
  <use ./images/chapter3/fazzoletto4_particolare_5.jpg>
 Package pdftex.def Info: ./images/chapter3/fazzoletto4_particolare_5.jpg used o
 n input line 188.
-(pdftex.def)             Requested size: 418.25368pt x 369.46552pt.
+(pdftex.def)             Requested size: 324.36143pt x 286.52495pt.
 
 
-LaTeX Warning: Float too large for page by 212.86488pt on input line 191.
+LaTeX Warning: Float too large for page by 131.89595pt on input line 191.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-<./images/chapter3/fazzoletto4_particolare_6.jpg, id=223, 151.767pt x 455.301pt
+<./images/chapter3/fazzoletto4_particolare_6.jpg, id=252, 151.767pt x 455.301pt
 >
 File: ./images/chapter3/fazzoletto4_particolare_6.jpg Graphic file (type jpg)
  <use ./images/chapter3/fazzoletto4_particolare_6.jpg>
 Package pdftex.def Info: ./images/chapter3/fazzoletto4_particolare_6.jpg used o
 n input line 197.
-(pdftex.def)             Requested size: 418.25368pt x 1254.89528pt.
+(pdftex.def)             Requested size: 324.36143pt x 973.1882pt.
 
 
-LaTeX Warning: Float too large for page by 689.09422pt on input line 200.
+LaTeX Warning: Float too large for page by 500.9941pt on input line 200.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-<./images/chapter3/fazzoletto4_particolare_7.jpg, id=224, 140.9265pt x 455.301p
+<./images/chapter3/fazzoletto4_particolare_7.jpg, id=253, 140.9265pt x 455.301p
 t>
 File: ./images/chapter3/fazzoletto4_particolare_7.jpg Graphic file (type jpg)
  <use ./images/chapter3/fazzoletto4_particolare_7.jpg>
 Package pdftex.def Info: ./images/chapter3/fazzoletto4_particolare_7.jpg used o
 n input line 206.
-(pdftex.def)             Requested size: 418.25368pt x 1351.47005pt.
+(pdftex.def)             Requested size: 324.36143pt x 1048.08037pt.
 
 
-LaTeX Warning: Float too large for page by 785.66899pt on input line 209.
+LaTeX Warning: Float too large for page by 575.88626pt on input line 209.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-<./images/chapter3/fazzoletto4_particolare_8.jpg, id=225, 152.4897pt x 461.8053
+<./images/chapter3/fazzoletto4_particolare_8.jpg, id=254, 152.4897pt x 461.8053
 pt>
 File: ./images/chapter3/fazzoletto4_particolare_8.jpg Graphic file (type jpg)
  <use ./images/chapter3/fazzoletto4_particolare_8.jpg>
 Package pdftex.def Info: ./images/chapter3/fazzoletto4_particolare_8.jpg used o
 n input line 215.
-(pdftex.def)             Requested size: 418.25368pt x 1266.81865pt.
+(pdftex.def)             Requested size: 324.36143pt x 982.44012pt.
 
 
-LaTeX Warning: Float too large for page by 701.0176pt on input line 218.
+LaTeX Warning: Float too large for page by 510.24602pt on input line 218.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-<./images/chapter3/fazzoletto4_particolare_9.jpg, id=226, 170.7981pt x 455.301p
+<./images/chapter3/fazzoletto4_particolare_9.jpg, id=255, 170.7981pt x 455.301p
 t>
 File: ./images/chapter3/fazzoletto4_particolare_9.jpg Graphic file (type jpg)
  <use ./images/chapter3/fazzoletto4_particolare_9.jpg>
 Package pdftex.def Info: ./images/chapter3/fazzoletto4_particolare_9.jpg used o
 n input line 224.
-(pdftex.def)             Requested size: 418.25368pt x 1115.05258pt.
+(pdftex.def)             Requested size: 324.36143pt x 864.74046pt.
 
 
-LaTeX Warning: Float too large for page by 549.25153pt on input line 227.
+LaTeX Warning: Float too large for page by 392.54636pt on input line 227.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./images/chapter3/cartolina_dragoni.jpg, id=227, 251.4996pt x 390.258pt>
+<./images/chapter3/cartolina_dragoni.jpg, id=256, 251.4996pt x 390.258pt>
 File: ./images/chapter3/cartolina_dragoni.jpg Graphic file (type jpg)
 
 <use ./images/chapter3/cartolina_dragoni.jpg>
 Package pdftex.def Info: ./images/chapter3/cartolina_dragoni.jpg used on input 
 line 233.
-(pdftex.def)             Requested size: 418.25368pt x 649.09053pt.
+(pdftex.def)             Requested size: 324.36143pt x 503.37535pt.
 
 
-LaTeX Warning: Float too large for page by 83.28947pt on input line 236.
+LaTeX Warning: Float too large for page by 42.65211pt on input line 236.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-<./images/chapter3/cartolina_regiacavalleria.jpg, id=228, 259.2084pt x 394.1124
+<./images/chapter3/cartolina_regiacavalleria.jpg, id=257, 259.2084pt x 394.1124
 pt>
 File: ./images/chapter3/cartolina_regiacavalleria.jpg Graphic file (type jpg)
  <use ./images/chapter3/cartolina_regiacavalleria.jpg>
 Package pdftex.def Info: ./images/chapter3/cartolina_regiacavalleria.jpg used o
 n input line 242.
-(pdftex.def)             Requested size: 418.25368pt x 635.98094pt.
+(pdftex.def)             Requested size: 324.36143pt x 493.21057pt.
 
 
-LaTeX Warning: Float too large for page by 70.17989pt on input line 245.
+LaTeX Warning: Float too large for page by 32.48734pt on input line 245.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-<./images/chapter3/fazzoletto5_particolare.jpg, id=229, 227.6505pt x 221.628pt>
+<./images/chapter3/fazzoletto5_particolare.jpg, id=258, 227.6505pt x 221.628pt>
 File: ./images/chapter3/fazzoletto5_particolare.jpg Graphic file (type jpg)
 <use ./images/chapter3/fazzoletto5_particolare.jpg>
 Package pdftex.def Info: ./images/chapter3/fazzoletto5_particolare.jpg used on 
 input line 251.
-(pdftex.def)             Requested size: 418.25368pt x 407.23233pt.
+(pdftex.def)             Requested size: 324.36143pt x 315.81303pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-<./images/chapter3/fazzoletto_educazionefamiliare.jpg, id=230, 284.5029pt x 271
+<./images/chapter3/fazzoletto_educazionefamiliare.jpg, id=259, 284.5029pt x 271
 .4943pt>
 File: ./images/chapter3/fazzoletto_educazionefamiliare.jpg Graphic file (type j
 pg)
  <use ./images/chapter3/fazzoletto_educazionefamiliare.jpg>
 Package pdftex.def Info: ./images/chapter3/fazzoletto_educazionefamiliare.jpg u
 sed on input line 263.
-(pdftex.def)             Requested size: 418.25368pt x 399.12907pt.
+(pdftex.def)             Requested size: 324.36143pt x 309.53154pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[55]
-<./images/chapter3/fazzoletto_educazionecivica.jpg, id=235, 426.8748pt x 425.42
+[62]
+<./images/chapter3/fazzoletto_educazionecivica.jpg, id=263, 426.8748pt x 425.42
 94pt>
 File: ./images/chapter3/fazzoletto_educazionecivica.jpg Graphic file (type jpg)
 
  <use ./images/chapter3/fazzoletto_educazionecivica.jpg>
 Package pdftex.def Info: ./images/chapter3/fazzoletto_educazionecivica.jpg used
  on input line 272.
-(pdftex.def)             Requested size: 418.25368pt x 416.86603pt.
+(pdftex.def)             Requested size: 324.36143pt x 323.28424pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./images/chapter3/foulard_etiopia.jpg, id=236, 1794.705pt x 1330.9725pt>
+<./images/chapter3/foulard_etiopia.jpg, id=264, 1794.705pt x 1330.9725pt>
 File: ./images/chapter3/foulard_etiopia.jpg Graphic file (type jpg)
 
 <use ./images/chapter3/foulard_etiopia.jpg>
 Package pdftex.def Info: ./images/chapter3/foulard_etiopia.jpg used on input li
 ne 281.
-(pdftex.def)             Requested size: 418.25368pt x 310.17903pt.
+(pdftex.def)             Requested size: 324.36143pt x 240.53954pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[56]
-<./images/chapter3/produzione_casalinga_tessuti.jpg, id=240, 165.4983pt x 320.8
+[63]
+<./images/chapter3/produzione_casalinga_tessuti.jpg, id=268, 165.4983pt x 320.8
 788pt>
 File: ./images/chapter3/produzione_casalinga_tessuti.jpg Graphic file (type jpg
 )
  <use ./images/chapter3/produzione_casalinga_tessuti.jpg>
 Package pdftex.def Info: ./images/chapter3/produzione_casalinga_tessuti.jpg use
 d on input line 292.
-(pdftex.def)             Requested size: 418.25368pt x 811.07674pt.
+(pdftex.def)             Requested size: 324.36143pt x 629.00137pt.
 
 
-LaTeX Warning: Float too large for page by 245.27568pt on input line 295.
+LaTeX Warning: Float too large for page by 156.80727pt on input line 295.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[57 <./images/chapter3/fazzoletto2_particolare_3.jpg> <./images/chapter3/fazzol
-etto2_particolare_4.jpg>] [58 <./images/chapter3/fazzoletto2A_particolare.jpg>]
-[59 <./images/chapter3/fazzoletto2A_particolare_2.jpg>] [60 <./images/chapter3/
-fazzoletto2A_particolare_3.jpg>] [61 <./images/chapter3/fazzoletto2A_particolar
-e_4.jpg>] [62 <./images/chapter3/fazzoletto2A_particolare_5.jpg>] [63 <./images
-/chapter3/fazzoletto3_particolare.jpg>] [64 <./images/chapter3/fazzoletto3_part
-icolare_2.jpg> <./images/chapter3/fazzoletto3_particolare_3.jpg>] [65 <./images
+[64 <./images/chapter3/fazzoletto2_particolare_3.jpg> <./images/chapter3/fazzol
+etto2_particolare_4.jpg>] [65 <./images/chapter3/fazzoletto2A_particolare.jpg>]
+[66 <./images/chapter3/fazzoletto2A_particolare_2.jpg>] [67 <./images/chapter3/
+fazzoletto2A_particolare_3.jpg>] [68 <./images/chapter3/fazzoletto2A_particolar
+e_4.jpg>] [69 <./images/chapter3/fazzoletto2A_particolare_5.jpg>] [70 <./images
+/chapter3/fazzoletto3_particolare.jpg>] [71 <./images/chapter3/fazzoletto3_part
+icolare_2.jpg> <./images/chapter3/fazzoletto3_particolare_3.jpg>] [72 <./images
 /chapter3/fazzoletto3_particolare_4.jpg> <./images/chapter3/fazzoletto3_partico
-lare_5.jpg>] [66 <./images/chapter3/fazzoletto4_particolare.jpg>] [67 <./images
+lare_5.jpg>] [73 <./images/chapter3/fazzoletto4_particolare.jpg>] [74 <./images
 /chapter3/fazzoletto4_particolare_2.jpg> <./images/chapter3/fazzoletto4_partico
-lare_3.jpg>] [68 <./images/chapter3/fazzoletto4_particolare_4.jpg> <./images/ch
-apter3/fazzoletto4_particolare_5.jpg>] [69 <./images/chapter3/fazzoletto4_parti
-colare_6.jpg>] [70 <./images/chapter3/fazzoletto4_particolare_7.jpg>] [71 <./im
-ages/chapter3/fazzoletto4_particolare_8.jpg>] [72 <./images/chapter3/fazzoletto
-4_particolare_9.jpg>] [73 <./images/chapter3/cartolina_dragoni.jpg>] [74 <./ima
-ges/chapter3/cartolina_regiacavalleria.jpg>] [75 <./images/chapter3/fazzoletto5
-_particolare.jpg>] [76 <./images/chapter3/fazzoletto_educazionefamiliare.jpg>]
-[77 <./images/chapter3/fazzoletto_educazionecivica.jpg>] [78 <./images/chapter3
-/foulard_etiopia.jpg>] [79 <./images/chapter3/produzione_casalinga_tessuti.jpg>
-]) (./chapter4/chapter4.tex [80
-
-
-
-]
+lare_3.jpg>] [75 <./images/chapter3/fazzoletto4_particolare_4.jpg> <./images/ch
+apter3/fazzoletto4_particolare_5.jpg>] [76 <./images/chapter3/fazzoletto4_parti
+colare_6.jpg>] [77 <./images/chapter3/fazzoletto4_particolare_7.jpg>] [78 <./im
+ages/chapter3/fazzoletto4_particolare_8.jpg>] [79 <./images/chapter3/fazzoletto
+4_particolare_9.jpg>] [80 <./images/chapter3/cartolina_dragoni.jpg>] [81 <./ima
+ges/chapter3/cartolina_regiacavalleria.jpg>] [82 <./images/chapter3/fazzoletto5
+_particolare.jpg>] [83 <./images/chapter3/fazzoletto_educazionefamiliare.jpg>]
+[84 <./images/chapter3/fazzoletto_educazionecivica.jpg>] [85 <./images/chapter3
+/foulard_etiopia.jpg>] [86 <./images/chapter3/produzione_casalinga_tessuti.jpg>
+]) (./chapter4/chapter4.tex
 Capitolo 4.
-[81] <./images/chapter4/tessuto1.jpg, id=320, 170.7981pt x 244.5135pt>
+[87
+
+
+
+] <./images/chapter4/tessuto1.jpg, id=345, 170.7981pt x 244.5135pt>
 File: ./images/chapter4/tessuto1.jpg Graphic file (type jpg)
 
 <use ./images/chapter4/tessuto1.jpg>
 Package pdftex.def Info: ./images/chapter4/tessuto1.jpg used on input line 10.
-(pdftex.def)             Requested size: 418.25368pt x 598.82451pt.
-
-
-LaTeX Warning: Float too large for page by 33.02345pt on input line 13.
+(pdftex.def)             Requested size: 324.36143pt x 464.39764pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[82 <./images/chapter4/tessuto1.jpg>]) (./chapter5/chapter5.tex
+[88 <./images/chapter4/tessuto1.jpg>]) (./chapter5/chapter5.tex
 Capitolo 5.
-<./images/chapter5/tessilinuovi.jpg, id=324, 227.6505pt x 303.7749pt>
+<./images/chapter5/tessilinuovi.jpg, id=349, 227.6505pt x 303.7749pt>
 File: ./images/chapter5/tessilinuovi.jpg Graphic file (type jpg)
 
 <use ./images/chapter5/tessilinuovi.jpg>
 Package pdftex.def Info: ./images/chapter5/tessilinuovi.jpg used on input line 
 6.
-(pdftex.def)             Requested size: 418.25368pt x 558.17387pt.
-
-Underfull \hbox (badness 3417) in paragraph at lines 7--7
-[]\T1/lmr/m/n/10.95 Figura 5.1: Co-per-ti-na del-la ri-vi-sta tri-me-stra-le ^^
-PI TES-SI-LI NUO-VI^^Q n\TS1/lmr/m/n/10.95 ° \T1/lmr/m/n/10.95 28
- []
-
-
-LaTeX Warning: Float too large for page by 5.97282pt on input line 9.
+(pdftex.def)             Requested size: 324.36143pt x 432.86981pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[83
+[89
 
 
 
-] [84]
-<./images/chapter5/tessilinuovi_2.jpg, id=331, 221.8689pt x 316.5426pt>
+] [90]
+<./images/chapter5/tessilinuovi_2.jpg, id=357, 221.8689pt x 316.5426pt>
 File: ./images/chapter5/tessilinuovi_2.jpg Graphic file (type jpg)
 
 <use ./images/chapter5/tessilinuovi_2.jpg>
 Package pdftex.def Info: ./images/chapter5/tessilinuovi_2.jpg used on input lin
 e 25.
-(pdftex.def)             Requested size: 418.25368pt x 596.79068pt.
-
-
-LaTeX Warning: Float too large for page by 30.98962pt on input line 28.
+(pdftex.def)             Requested size: 324.36143pt x 462.81973pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./images/chapter5/tessilinuovi_3.jpg, id=332, 227.6505pt x 307.3884pt>
+<./images/chapter5/tessilinuovi_3.jpg, id=358, 227.6505pt x 307.3884pt>
 File: ./images/chapter5/tessilinuovi_3.jpg Graphic file (type jpg)
 
 <use ./images/chapter5/tessilinuovi_3.jpg>
 Package pdftex.def Info: ./images/chapter5/tessilinuovi_3.jpg used on input lin
 e 34.
-(pdftex.def)             Requested size: 418.25368pt x 564.8135pt.
+(pdftex.def)             Requested size: 324.36143pt x 438.01894pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[85] <./images/chapter5/tessilinuovi_4.jpg, id=337, 170.7981pt x 223.5552pt>
+[91] <./images/chapter5/tessilinuovi_4.jpg, id=362, 170.7981pt x 223.5552pt>
 File: ./images/chapter5/tessilinuovi_4.jpg Graphic file (type jpg)
 
 <use ./images/chapter5/tessilinuovi_4.jpg>
 Package pdftex.def Info: ./images/chapter5/tessilinuovi_4.jpg used on input lin
 e 45.
-(pdftex.def)             Requested size: 418.25368pt x 547.49669pt.
+(pdftex.def)             Requested size: 324.36143pt x 424.59212pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./images/chapter5/logo_snia.jpg, id=338, 142.3719pt x 135.3858pt>
+<./images/chapter5/logo_snia.jpg, id=363, 142.3719pt x 135.3858pt>
 File: ./images/chapter5/logo_snia.jpg Graphic file (type jpg)
 
 <use ./images/chapter5/logo_snia.jpg>
 Package pdftex.def Info: ./images/chapter5/logo_snia.jpg used on input line 52.
 
-(pdftex.def)             Requested size: 418.25368pt x 397.80635pt.
+(pdftex.def)             Requested size: 324.36143pt x 308.50516pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./images/chapter5/biki.jpg, id=339, 290.0436pt x 369.7815pt>
+<./images/chapter5/biki.jpg, id=364, 290.0436pt x 369.7815pt>
 File: ./images/chapter5/biki.jpg Graphic file (type jpg)
 
 <use ./images/chapter5/biki.jpg>
 Package pdftex.def Info: ./images/chapter5/biki.jpg used on input line 61.
-(pdftex.def)             Requested size: 418.25368pt x 533.25793pt.
+(pdftex.def)             Requested size: 324.36143pt x 413.54869pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./images/chapter5/summer_fashon_1.jpg, id=340, 1978.39125pt x 1065.9825pt>
+<./images/chapter5/summer_fashon_1.jpg, id=365, 1978.39125pt x 1065.9825pt>
 File: ./images/chapter5/summer_fashon_1.jpg Graphic file (type jpg)
 
 <use ./images/chapter5/summer_fashon_1.jpg>
 Package pdftex.def Info: ./images/chapter5/summer_fashon_1.jpg used on input li
 ne 70.
-(pdftex.def)             Requested size: 418.25368pt x 225.35936pt.
+(pdftex.def)             Requested size: 324.36143pt x 174.7572pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./images/chapter5/summer_fashon_2.jpg, id=341, 972.63374pt x 1731.46875pt>
+<./images/chapter5/summer_fashon_2.jpg, id=366, 972.63374pt x 1731.46875pt>
 File: ./images/chapter5/summer_fashon_2.jpg Graphic file (type jpg)
 
 <use ./images/chapter5/summer_fashon_2.jpg>
 Package pdftex.def Info: ./images/chapter5/summer_fashon_2.jpg used on input li
 ne 77.
-(pdftex.def)             Requested size: 418.25368pt x 744.5699pt.
+(pdftex.def)             Requested size: 324.36143pt x 577.41023pt.
 
 
-LaTeX Warning: Float too large for page by 178.76884pt on input line 80.
+LaTeX Warning: Float too large for page by 105.21613pt on input line 80.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-<./images/chapter5/ciclo_produzione_nylon.jpg, id=342, 230.7822pt x 426.8748pt>
+<./images/chapter5/ciclo_produzione_nylon.jpg, id=367, 230.7822pt x 426.8748pt>
 File: ./images/chapter5/ciclo_produzione_nylon.jpg Graphic file (type jpg)
 <use ./images/chapter5/ciclo_produzione_nylon.jpg>
 Package pdftex.def Info: ./images/chapter5/ciclo_produzione_nylon.jpg used on i
 nput line 86.
-(pdftex.def)             Requested size: 418.25368pt x 773.63701pt.
+(pdftex.def)             Requested size: 324.36143pt x 599.96553pt.
 
 
-LaTeX Warning: Float too large for page by 207.83595pt on input line 89.
+LaTeX Warning: Float too large for page by 127.77142pt on input line 89.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-<./images/chapter5/ciclo_produzione_raion.jpg, id=343, 255.1131pt x 426.75435pt
+<./images/chapter5/ciclo_produzione_raion.jpg, id=368, 255.1131pt x 426.75435pt
 >
 File: ./images/chapter5/ciclo_produzione_raion.jpg Graphic file (type jpg)
  <use ./images/chapter5/ciclo_produzione_raion.jpg>
 Package pdftex.def Info: ./images/chapter5/ciclo_produzione_raion.jpg used on i
 nput line 95.
-(pdftex.def)             Requested size: 418.25368pt x 699.70586pt.
+(pdftex.def)             Requested size: 324.36143pt x 542.6297pt.
 
 
-LaTeX Warning: Float too large for page by 133.9048pt on input line 98.
+LaTeX Warning: Float too large for page by 70.4356pt on input line 98.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[86 <./images/chapter5/tessilinuovi.jpg>] [87 <./images/chapter5/tessilinuovi_2
-.jpg>] [88 <./images/chapter5/tessilinuovi_3.jpg>] [89 <./images/chapter5/tessi
-linuovi_4.jpg>] [90 <./images/chapter5/logo_snia.jpg>] [91 <./images/chapter5/b
-iki.jpg>] [92 <./images/chapter5/summer_fashon_1.jpg>] [93 <./images/chapter5/s
-ummer_fashon_2.jpg>] [94 <./images/chapter5/ciclo_produzione_nylon.jpg>]
-[95 <./images/chapter5/ciclo_produzione_raion.jpg>]) (./chapter6/chapter6.tex
-[96
+[92 <./images/chapter5/tessilinuovi.jpg>] [93 <./images/chapter5/tessilinuovi_2
+.jpg>] [94 <./images/chapter5/tessilinuovi_3.jpg>] [95 <./images/chapter5/tessi
+linuovi_4.jpg>] [96 <./images/chapter5/logo_snia.jpg>] [97 <./images/chapter5/b
+iki.jpg>] [98 <./images/chapter5/summer_fashon_1.jpg>] [99 <./images/chapter5/s
+ummer_fashon_2.jpg>] [100 <./images/chapter5/ciclo_produzione_nylon.jpg>]
+[101 <./images/chapter5/ciclo_produzione_raion.jpg>]) (./chapter6/chapter6.tex
+[102
 
 
 
 ]
 Capitolo 6.
-[97] <./images/chapter6/tovaglia_1.jpg, id=382, 960.58875pt x 1770.615pt>
+[103] <./images/chapter6/tovaglia_1.jpg, id=408, 960.58875pt x 1770.615pt>
 File: ./images/chapter6/tovaglia_1.jpg Graphic file (type jpg)
 
 <use ./images/chapter6/tovaglia_1.jpg>
 Package pdftex.def Info: ./images/chapter6/tovaglia_1.jpg used on input line 10
 .
-(pdftex.def)             Requested size: 418.25368pt x 770.96782pt.
+(pdftex.def)             Requested size: 324.36143pt x 597.8945pt.
 
 
-LaTeX Warning: Float too large for page by 205.16676pt on input line 13.
+LaTeX Warning: Float too large for page by 125.7004pt on input line 13.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-<./images/chapter6/tovaglia_1_dettagli.jpg, id=383, 447.92343pt x 597.73312pt>
+<./images/chapter6/tovaglia_1_dettagli.jpg, id=409, 447.92343pt x 597.73312pt>
 File: ./images/chapter6/tovaglia_1_dettagli.jpg Graphic file (type jpg)
 
 <use ./images/chapter6/tovaglia_1_dettagli.jpg>
 Package pdftex.def Info: ./images/chapter6/tovaglia_1_dettagli.jpg used on inpu
 t line 19.
-(pdftex.def)             Requested size: 418.25368pt x 558.1571pt.
+(pdftex.def)             Requested size: 324.36143pt x 432.85745pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./images/chapter6/tovaglia_2.jpg, id=384, 1026.83624pt x 2041.6275pt>
+<./images/chapter6/tovaglia_2.jpg, id=410, 1026.83624pt x 2041.6275pt>
 File: ./images/chapter6/tovaglia_2.jpg Graphic file (type jpg)
 
 <use ./images/chapter6/tovaglia_2.jpg>
 Package pdftex.def Info: ./images/chapter6/tovaglia_2.jpg used on input line 28
 .
-(pdftex.def)             Requested size: 418.25368pt x 831.58984pt.
+(pdftex.def)             Requested size: 324.36143pt x 644.92293pt.
 
 
-LaTeX Warning: Float too large for page by 265.78879pt on input line 31.
+LaTeX Warning: Float too large for page by 172.72882pt on input line 31.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./images/chapter6/pezza_di_prova.jpg, id=385, 1589.94pt x 2119.92pt>
+<./images/chapter6/pezza_di_prova.jpg, id=411, 1589.94pt x 2119.92pt>
 File: ./images/chapter6/pezza_di_prova.jpg Graphic file (type jpg)
 
 <use ./images/chapter6/pezza_di_prova.jpg>
 Package pdftex.def Info: ./images/chapter6/pezza_di_prova.jpg used on input lin
 e 37.
-(pdftex.def)             Requested size: 418.25368pt x 557.66801pt.
+(pdftex.def)             Requested size: 324.36143pt x 432.48384pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-<./images/chapter6/tovaglietta_prima_colazione.jpg, id=386, 341.92258pt x 437.2
+<./images/chapter6/tovaglietta_prima_colazione.jpg, id=412, 341.92258pt x 437.2
 4644pt>
 File: ./images/chapter6/tovaglietta_prima_colazione.jpg Graphic file (type jpg)
 
  <use ./images/chapter6/tovaglietta_prima_colazione.jpg>
 Package pdftex.def Info: ./images/chapter6/tovaglietta_prima_colazione.jpg used
  on input line 46.
-(pdftex.def)             Requested size: 418.25368pt x 534.88098pt.
+(pdftex.def)             Requested size: 324.36143pt x 414.80797pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-<./images/chapter6/grembiule_da_cucina.jpg, id=387, 341.77687pt x 455.45157pt>
+<./images/chapter6/grembiule_da_cucina.jpg, id=413, 341.77687pt x 455.45157pt>
 File: ./images/chapter6/grembiule_da_cucina.jpg Graphic file (type jpg)
 
 <use ./images/chapter6/grembiule_da_cucina.jpg>
 Package pdftex.def Info: ./images/chapter6/grembiule_da_cucina.jpg used on inpu
 t line 55.
-(pdftex.def)             Requested size: 418.25368pt x 557.40141pt.
+(pdftex.def)             Requested size: 324.36143pt x 432.27345pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[98 <./images/chapter6/tovaglia_1.jpg>] [99 <./images/chapter6/tovaglia_1_detta
-gli.jpg>] [100 <./images/chapter6/tovaglia_2.jpg>] [101 <./images/chapter6/pezz
-a_di_prova.jpg>] [102 <./images/chapter6/tovaglietta_prima_colazione.jpg>]
-[103 <./images/chapter6/grembiule_da_cucina.jpg>]) (./chapter7/chapter7.tex
-[104
+[104 <./images/chapter6/tovaglia_1.jpg>] [105 <./images/chapter6/tovaglia_1_det
+tagli.jpg>] [106 <./images/chapter6/tovaglia_2.jpg>] [107 <./images/chapter6/pe
+zza_di_prova.jpg>] [108 <./images/chapter6/tovaglietta_prima_colazione.jpg>]
+[109 <./images/chapter6/grembiule_da_cucina.jpg>]) (./chapter7/chapter7.tex
+[110
 
 
 
 ]
 Capitolo 7.
-[105]
-<./images/chapter7/tovaglia_buon_natale_anno.jpg, id=414, 227.6505pt x 309.3156
+[111]
+<./images/chapter7/tovaglia_buon_natale_anno.jpg, id=439, 227.6505pt x 309.3156
 pt>
 File: ./images/chapter7/tovaglia_buon_natale_anno.jpg Graphic file (type jpg)
  <use ./images/chapter7/tovaglia_buon_natale_anno.jpg>
 Package pdftex.def Info: ./images/chapter7/tovaglia_buon_natale_anno.jpg used o
 n input line 10.
-(pdftex.def)             Requested size: 418.25368pt x 568.35468pt.
-
-
-LaTeX Warning: Float too large for page by 2.55362pt on input line 13.
+(pdftex.def)             Requested size: 324.36143pt x 440.76514pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./images/chapter7/tovaglia_salumi.jpg, id=415, 227.6505pt x 320.6379pt>
+<./images/chapter7/tovaglia_salumi.jpg, id=440, 227.6505pt x 320.6379pt>
 File: ./images/chapter7/tovaglia_salumi.jpg Graphic file (type jpg)
 
 <use ./images/chapter7/tovaglia_salumi.jpg>
 Package pdftex.def Info: ./images/chapter7/tovaglia_salumi.jpg used on input li
 ne 19.
-(pdftex.def)             Requested size: 418.25368pt x 589.15892pt.
-
-
-LaTeX Warning: Float too large for page by 23.35786pt on input line 22.
+(pdftex.def)             Requested size: 324.36143pt x 456.89905pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-<./images/chapter7/tovaglia_vaso_di_fiori.jpg, id=416, 227.6505pt x 380.622pt>
+<./images/chapter7/tovaglia_vaso_di_fiori.jpg, id=441, 227.6505pt x 380.622pt>
 File: ./images/chapter7/tovaglia_vaso_di_fiori.jpg Graphic file (type jpg)
 
 <use ./images/chapter7/tovaglia_vaso_di_fiori.jpg>
 Package pdftex.def Info: ./images/chapter7/tovaglia_vaso_di_fiori.jpg used on i
 nput line 28.
-(pdftex.def)             Requested size: 418.25368pt x 699.37723pt.
+(pdftex.def)             Requested size: 324.36143pt x 542.37453pt.
 
 
-LaTeX Warning: Float too large for page by 133.57617pt on input line 31.
+LaTeX Warning: Float too large for page by 70.18042pt on input line 31.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./images/chapter7/tovaglia_teiere.jpg, id=417, 227.6505pt x 337.9827pt>
+<./images/chapter7/tovaglia_teiere.jpg, id=442, 227.6505pt x 337.9827pt>
 File: ./images/chapter7/tovaglia_teiere.jpg Graphic file (type jpg)
 
 <use ./images/chapter7/tovaglia_teiere.jpg>
 Package pdftex.def Info: ./images/chapter7/tovaglia_teiere.jpg used on input li
 ne 37.
-(pdftex.def)             Requested size: 418.25368pt x 621.02931pt.
+(pdftex.def)             Requested size: 324.36143pt x 481.61488pt.
 
 
-LaTeX Warning: Float too large for page by 55.22826pt on input line 40.
+LaTeX Warning: Float too large for page by 9.42078pt on input line 40.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./images/chapter7/tovaglia_pesci.jpg, id=418, 227.6505pt x 320.6379pt>
+<./images/chapter7/tovaglia_pesci.jpg, id=443, 227.6505pt x 320.6379pt>
 File: ./images/chapter7/tovaglia_pesci.jpg Graphic file (type jpg)
 
 <use ./images/chapter7/tovaglia_pesci.jpg>
 Package pdftex.def Info: ./images/chapter7/tovaglia_pesci.jpg used on input lin
 e 46.
-(pdftex.def)             Requested size: 418.25368pt x 589.15892pt.
-
-
-LaTeX Warning: Float too large for page by 23.35786pt on input line 49.
+(pdftex.def)             Requested size: 324.36143pt x 456.89905pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./images/chapter7/tovaglia_arnesi.jpg, id=419, 341.5962pt x 501.072pt>
+<./images/chapter7/tovaglia_arnesi.jpg, id=444, 341.5962pt x 501.072pt>
 File: ./images/chapter7/tovaglia_arnesi.jpg Graphic file (type jpg)
 
 <use ./images/chapter7/tovaglia_arnesi.jpg>
 Package pdftex.def Info: ./images/chapter7/tovaglia_arnesi.jpg used on input li
 ne 55.
-(pdftex.def)             Requested size: 418.25368pt x 613.51659pt.
+(pdftex.def)             Requested size: 324.36143pt x 475.78633pt.
 
 
-LaTeX Warning: Float too large for page by 47.71553pt on input line 58.
+LaTeX Warning: Float too large for page by 3.59222pt on input line 58.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./images/chapter7/tovaglia_arnesi_2.jpg, id=420, 341.5962pt x 405.6756pt>
+<./images/chapter7/tovaglia_arnesi_2.jpg, id=445, 341.5962pt x 405.6756pt>
 File: ./images/chapter7/tovaglia_arnesi_2.jpg Graphic file (type jpg)
 
 <use ./images/chapter7/tovaglia_arnesi_2.jpg>
 Package pdftex.def Info: ./images/chapter7/tovaglia_arnesi_2.jpg used on input 
 line 64.
-(pdftex.def)             Requested size: 418.25368pt x 496.71245pt.
+(pdftex.def)             Requested size: 324.36143pt x 385.20393pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./images/chapter7/tovaglia_galli.jpg, id=421, 341.5962pt x 399.894pt>
+<./images/chapter7/tovaglia_galli.jpg, id=446, 341.5962pt x 399.894pt>
 File: ./images/chapter7/tovaglia_galli.jpg Graphic file (type jpg)
 
 <use ./images/chapter7/tovaglia_galli.jpg>
 Package pdftex.def Info: ./images/chapter7/tovaglia_galli.jpg used on input lin
 e 73.
-(pdftex.def)             Requested size: 418.25368pt x 489.63339pt.
+(pdftex.def)             Requested size: 324.36143pt x 379.71407pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./images/chapter7/tovaglia_rose.jpg, id=422, 343.8888pt x 390.258pt>
+<./images/chapter7/tovaglia_rose.jpg, id=447, 343.8888pt x 390.258pt>
 File: ./images/chapter7/tovaglia_rose.jpg Graphic file (type jpg)
 
 <use ./images/chapter7/tovaglia_rose.jpg>
 Package pdftex.def Info: ./images/chapter7/tovaglia_rose.jpg used on input line
  82.
-(pdftex.def)             Requested size: 418.25368pt x 474.66702pt.
+(pdftex.def)             Requested size: 324.36143pt x 368.11095pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[106 <./images/chapter7/tovaglia_buon_natale_anno.jpg>] [107 <./images/chapter7
-/tovaglia_salumi.jpg>] [108 <./images/chapter7/tovaglia_vaso_di_fiori.jpg>]
-[109 <./images/chapter7/tovaglia_teiere.jpg>] [110 <./images/chapter7/tovaglia_
-pesci.jpg>] [111 <./images/chapter7/tovaglia_arnesi.jpg>] [112 <./images/chapte
-r7/tovaglia_arnesi_2.jpg>] [113 <./images/chapter7/tovaglia_galli.jpg>]
-[114 <./images/chapter7/tovaglia_rose.jpg>]) (./chapter8/chapter8.tex
+[112 <./images/chapter7/tovaglia_buon_natale_anno.jpg>] [113 <./images/chapter7
+/tovaglia_salumi.jpg>] [114 <./images/chapter7/tovaglia_vaso_di_fiori.jpg>]
+[115 <./images/chapter7/tovaglia_teiere.jpg>] [116 <./images/chapter7/tovaglia_
+pesci.jpg>] [117 <./images/chapter7/tovaglia_arnesi.jpg>] [118 <./images/chapte
+r7/tovaglia_arnesi_2.jpg>] [119 <./images/chapter7/tovaglia_galli.jpg>]
+[120 <./images/chapter7/tovaglia_rose.jpg>]) (./chapter8/chapter8.tex
 Capitolo 8.
-<./images/chapter8/marchio_daf.jpg, id=451, 91.3011pt x 76.6062pt>
+<./images/chapter8/marchio_daf.jpg, id=477, 91.3011pt x 76.6062pt>
 File: ./images/chapter8/marchio_daf.jpg Graphic file (type jpg)
 
 <use ./images/chapter8/marchio_daf.jpg>
 Package pdftex.def Info: ./images/chapter8/marchio_daf.jpg used on input line 8
 .
-(pdftex.def)             Requested size: 418.25368pt x 351.0111pt.
+(pdftex.def)             Requested size: 324.36143pt x 272.21338pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[115
+[121
 
 
 
-] <./images/chapter8/mani_di_fata.jpg, id=456, 45.0502pt x 64.30322pt>
+] <./images/chapter8/mani_di_fata.jpg, id=481, 45.0502pt x 64.30322pt>
 File: ./images/chapter8/mani_di_fata.jpg Graphic file (type jpg)
 
 <use ./images/chapter8/mani_di_fata.jpg>
 Package pdftex.def Info: ./images/chapter8/mani_di_fata.jpg used on input line 
 19.
-(pdftex.def)             Requested size: 418.25368pt x 597.25131pt.
-
-
-LaTeX Warning: Float too large for page by 31.45026pt on input line 22.
+(pdftex.def)             Requested size: 324.36143pt x 463.17607pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./images/chapter8/tuxo.jpg, id=457, 300.4023pt x 316.5426pt>
+<./images/chapter8/tuxo.jpg, id=482, 300.4023pt x 316.5426pt>
 File: ./images/chapter8/tuxo.jpg Graphic file (type jpg)
 
 <use ./images/chapter8/tuxo.jpg>
 Package pdftex.def Info: ./images/chapter8/tuxo.jpg used on input line 28.
-(pdftex.def)             Requested size: 418.25368pt x 440.76091pt.
+(pdftex.def)             Requested size: 324.36143pt x 341.81744pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./images/chapter8/tessuti_stampati.jpg, id=458, 287.6346pt x 398.4486pt>
+<./images/chapter8/tessuti_stampati.jpg, id=483, 287.6346pt x 398.4486pt>
 File: ./images/chapter8/tessuti_stampati.jpg Graphic file (type jpg)
 
 <use ./images/chapter8/tessuti_stampati.jpg>
 Package pdftex.def Info: ./images/chapter8/tessuti_stampati.jpg used on input l
 ine 37.
-(pdftex.def)             Requested size: 418.25368pt x 579.40761pt.
-
-
-LaTeX Warning: Float too large for page by 13.60655pt on input line 40.
+(pdftex.def)             Requested size: 324.36143pt x 449.33577pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-<./images/chapter8/pagina_pubblicitaria_fioclin.jpg, id=459, 227.6505pt x 312.4
+<./images/chapter8/pagina_pubblicitaria_fioclin.jpg, id=484, 227.6505pt x 312.4
 473pt>
 File: ./images/chapter8/pagina_pubblicitaria_fioclin.jpg Graphic file (type jpg
 )
  <use ./images/chapter8/pagina_pubblicitaria_fioclin.jpg>
 Package pdftex.def Info: ./images/chapter8/pagina_pubblicitaria_fioclin.jpg use
 d on input line 46.
-(pdftex.def)             Requested size: 418.25368pt x 574.10902pt.
-
-
-LaTeX Warning: Float too large for page by 8.30797pt on input line 49.
+(pdftex.def)             Requested size: 324.36143pt x 445.22769pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./images/chapter8/telene.jpg, id=460, 284.7438pt x 413.3844pt>
+<./images/chapter8/telene.jpg, id=485, 284.7438pt x 413.3844pt>
 File: ./images/chapter8/telene.jpg Graphic file (type jpg)
 
 <use ./images/chapter8/telene.jpg>
 Package pdftex.def Info: ./images/chapter8/telene.jpg used on input line 55.
-(pdftex.def)             Requested size: 418.25368pt x 607.25775pt.
-
-
-LaTeX Warning: Float too large for page by 41.4567pt on input line 58.
+(pdftex.def)             Requested size: 324.36143pt x 470.93509pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./images/chapter8/radiosa.jpg, id=461, 309.0747pt x 426.8748pt>
+<./images/chapter8/radiosa.jpg, id=486, 309.0747pt x 426.8748pt>
 File: ./images/chapter8/radiosa.jpg Graphic file (type jpg)
 
 <use ./images/chapter8/radiosa.jpg>
 Package pdftex.def Info: ./images/chapter8/radiosa.jpg used on input line 64.
-(pdftex.def)             Requested size: 418.25368pt x 577.68257pt.
-
-
-LaTeX Warning: Float too large for page by 11.88152pt on input line 67.
+(pdftex.def)             Requested size: 324.36143pt x 448.00378pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./images/chapter8/radiosa_tuxo.jpg, id=462, 230.7822pt x 398.4486pt>
+<./images/chapter8/radiosa_tuxo.jpg, id=487, 230.7822pt x 398.4486pt>
 File: ./images/chapter8/radiosa_tuxo.jpg Graphic file (type jpg)
 
 <use ./images/chapter8/radiosa_tuxo.jpg>
 Package pdftex.def Info: ./images/chapter8/radiosa_tuxo.jpg used on input line 
 73.
-(pdftex.def)             Requested size: 418.25368pt x 722.11942pt.
+(pdftex.def)             Requested size: 324.36143pt x 560.01295pt.
 
 
-LaTeX Warning: Float too large for page by 156.31836pt on input line 76.
+LaTeX Warning: Float too large for page by 87.81885pt on input line 76.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./images/chapter8/vestite_di_tuxo.jpg, id=463, 394.3533pt x 528.7755pt>
+<./images/chapter8/vestite_di_tuxo.jpg, id=488, 394.3533pt x 528.7755pt>
 File: ./images/chapter8/vestite_di_tuxo.jpg Graphic file (type jpg)
 
 <use ./images/chapter8/vestite_di_tuxo.jpg>
 Package pdftex.def Info: ./images/chapter8/vestite_di_tuxo.jpg used on input li
 ne 82.
-(pdftex.def)             Requested size: 418.25368pt x 560.83017pt.
+(pdftex.def)             Requested size: 324.36143pt x 434.93002pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./images/chapter8/la_moda.jpg, id=464, 290.16405pt x 426.75435pt>
+<./images/chapter8/la_moda.jpg, id=489, 290.16405pt x 426.75435pt>
 File: ./images/chapter8/la_moda.jpg Graphic file (type jpg)
 
 <use ./images/chapter8/la_moda.jpg>
 Package pdftex.def Info: ./images/chapter8/la_moda.jpg used on input line 91.
-(pdftex.def)             Requested size: 418.25368pt x 615.15092pt.
+(pdftex.def)             Requested size: 324.36143pt x 477.05649pt.
 
 
-LaTeX Warning: Float too large for page by 49.34987pt on input line 94.
+LaTeX Warning: Float too large for page by 4.86238pt on input line 94.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./images/chapter8/locandina.jpg, id=465, 227.6505pt x 383.7537pt>
+<./images/chapter8/locandina.jpg, id=490, 227.6505pt x 383.7537pt>
 File: ./images/chapter8/locandina.jpg Graphic file (type jpg)
 
 <use ./images/chapter8/locandina.jpg>
 Package pdftex.def Info: ./images/chapter8/locandina.jpg used on input line 100
 .
-(pdftex.def)             Requested size: 418.25368pt x 705.1316pt.
+(pdftex.def)             Requested size: 324.36143pt x 546.83711pt.
 
 
-LaTeX Warning: Float too large for page by 139.33055pt on input line 103.
+LaTeX Warning: Float too large for page by 74.643pt on input line 103.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./images/chapter8/biancaneve.jpg, id=466, 170.7981pt x 170.3163pt>
+<./images/chapter8/biancaneve.jpg, id=491, 170.7981pt x 170.3163pt>
 File: ./images/chapter8/biancaneve.jpg Graphic file (type jpg)
 
 <use ./images/chapter8/biancaneve.jpg>
 Package pdftex.def Info: ./images/chapter8/biancaneve.jpg used on input line 10
 9.
-(pdftex.def)             Requested size: 418.25368pt x 417.11223pt.
+(pdftex.def)             Requested size: 324.36143pt x 323.47696pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./images/chapter8/boccasile.jpg, id=467, 312.6882pt x 316.5426pt>
+<./images/chapter8/boccasile.jpg, id=492, 312.6882pt x 316.5426pt>
 File: ./images/chapter8/boccasile.jpg Graphic file (type jpg)
 
 <use ./images/chapter8/boccasile.jpg>
 Package pdftex.def Info: ./images/chapter8/boccasile.jpg used on input line 115
 .
-(pdftex.def)             Requested size: 418.25368pt x 423.45003pt.
+(pdftex.def)             Requested size: 324.36143pt x 328.38992pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./images/chapter8/cartolina_1.jpg, id=468, 199.2243pt x 282.5757pt>
+<./images/chapter8/cartolina_1.jpg, id=493, 199.2243pt x 282.5757pt>
 File: ./images/chapter8/cartolina_1.jpg Graphic file (type jpg)
 
 <use ./images/chapter8/cartolina_1.jpg>
 Package pdftex.def Info: ./images/chapter8/cartolina_1.jpg used on input line 1
 26.
-(pdftex.def)             Requested size: 418.25368pt x 593.25398pt.
-
-
-LaTeX Warning: Float too large for page by 27.45293pt on input line 129.
+(pdftex.def)             Requested size: 324.36143pt x 460.07689pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./images/chapter8/cartolina_2.jpg, id=469, 199.2243pt x 288.1164pt>
+<./images/chapter8/cartolina_2.jpg, id=494, 199.2243pt x 288.1164pt>
 File: ./images/chapter8/cartolina_2.jpg Graphic file (type jpg)
 
 <use ./images/chapter8/cartolina_2.jpg>
 Package pdftex.def Info: ./images/chapter8/cartolina_2.jpg used on input line 1
 32.
-(pdftex.def)             Requested size: 418.25368pt x 604.8864pt.
-
-
-LaTeX Warning: Float too large for page by 39.08534pt on input line 135.
+(pdftex.def)             Requested size: 324.36143pt x 469.098pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[116 <./images/chapter8/marchio_daf.jpg>]
-<./images/chapter8/cartolina_3.jpg, id=473, 199.2243pt x 274.1442pt>
+[122 <./images/chapter8/marchio_daf.jpg>]
+<./images/chapter8/cartolina_3.jpg, id=498, 199.2243pt x 274.1442pt>
 File: ./images/chapter8/cartolina_3.jpg Graphic file (type jpg)
 
 <use ./images/chapter8/cartolina_3.jpg>
 Package pdftex.def Info: ./images/chapter8/cartolina_3.jpg used on input line 1
 41.
-(pdftex.def)             Requested size: 418.25368pt x 575.55244pt.
-
-
-LaTeX Warning: Float too large for page by 9.75139pt on input line 144.
+(pdftex.def)             Requested size: 324.36143pt x 446.34909pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./images/chapter8/cartolina_4.jpg, id=474, 358.33875pt x 512.91624pt>
+<./images/chapter8/cartolina_4.jpg, id=499, 358.33875pt x 512.91624pt>
 File: ./images/chapter8/cartolina_4.jpg Graphic file (type jpg)
 
 <use ./images/chapter8/cartolina_4.jpg>
 Package pdftex.def Info: ./images/chapter8/cartolina_4.jpg used on input line 1
 47.
-(pdftex.def)             Requested size: 418.25368pt x 598.71649pt.
-
-
-LaTeX Warning: Float too large for page by 32.91544pt on input line 150.
+(pdftex.def)             Requested size: 324.36143pt x 464.31265pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./images/chapter8/cartolina_5.jpg, id=475, 199.2243pt x 284.5029pt>
+<./images/chapter8/cartolina_5.jpg, id=500, 199.2243pt x 284.5029pt>
 File: ./images/chapter8/cartolina_5.jpg Graphic file (type jpg)
 
 <use ./images/chapter8/cartolina_5.jpg>
 Package pdftex.def Info: ./images/chapter8/cartolina_5.jpg used on input line 1
 56.
-(pdftex.def)             Requested size: 418.25368pt x 597.30006pt.
-
-
-LaTeX Warning: Float too large for page by 31.49901pt on input line 159.
+(pdftex.def)             Requested size: 324.36143pt x 463.21468pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./images/chapter8/cartolina_6.jpg, id=476, 199.2243pt x 287.3937pt>
+<./images/chapter8/cartolina_6.jpg, id=501, 199.2243pt x 287.3937pt>
 File: ./images/chapter8/cartolina_6.jpg Graphic file (type jpg)
 
 <use ./images/chapter8/cartolina_6.jpg>
 Package pdftex.def Info: ./images/chapter8/cartolina_6.jpg used on input line 1
 62.
-(pdftex.def)             Requested size: 418.25368pt x 603.36916pt.
-
-
-LaTeX Warning: Float too large for page by 37.5681pt on input line 165.
+(pdftex.def)             Requested size: 324.36143pt x 467.92136pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./images/chapter8/cartolina_finale.jpg, id=477, 301.6068pt x 433.3791pt>
+<./images/chapter8/cartolina_finale.jpg, id=502, 301.6068pt x 433.3791pt>
 File: ./images/chapter8/cartolina_finale.jpg Graphic file (type jpg)
 
 <use ./images/chapter8/cartolina_finale.jpg>
 Package pdftex.def Info: ./images/chapter8/cartolina_finale.jpg used on input l
 ine 171.
-(pdftex.def)             Requested size: 418.25368pt x 601.01314pt.
-
-
-LaTeX Warning: Float too large for page by 35.21208pt on input line 174.
+(pdftex.def)             Requested size: 324.36143pt x 466.09169pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./images/chapter8/deangeli_1.jpg, id=478, 1995.70593pt x 1478.52374pt>
+<./images/chapter8/deangeli_1.jpg, id=503, 1995.70593pt x 1478.52374pt>
 File: ./images/chapter8/deangeli_1.jpg Graphic file (type jpg)
 
 <use ./images/chapter8/deangeli_1.jpg>
 Package pdftex.def Info: ./images/chapter8/deangeli_1.jpg used on input line 18
 0.
-(pdftex.def)             Requested size: 418.25368pt x 309.8449pt.
+(pdftex.def)             Requested size: 324.36143pt x 240.2911pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./images/chapter8/deangeli_2.jpg, id=479, 1826.32312pt x 1332.47812pt>
+<./images/chapter8/deangeli_2.jpg, id=504, 1826.32312pt x 1332.47812pt>
 File: ./images/chapter8/deangeli_2.jpg Graphic file (type jpg)
 
 <use ./images/chapter8/deangeli_2.jpg>
 Package pdftex.def Info: ./images/chapter8/deangeli_2.jpg used on input line 18
 6.
-(pdftex.def)             Requested size: 418.25368pt x 305.14194pt.
+(pdftex.def)             Requested size: 324.36143pt x 236.64359pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./images/chapter8/deangeli_3.jpg, id=480, 1874.50313pt x 1286.55656pt>
+<./images/chapter8/deangeli_3.jpg, id=505, 1874.50313pt x 1286.55656pt>
 File: ./images/chapter8/deangeli_3.jpg Graphic file (type jpg)
 
 <use ./images/chapter8/deangeli_3.jpg>
 Package pdftex.def Info: ./images/chapter8/deangeli_3.jpg used on input line 19
 2.
-(pdftex.def)             Requested size: 418.25368pt x 287.06772pt.
+(pdftex.def)             Requested size: 324.36143pt x 222.61833pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[117 <./images/chapter8/mani_di_fata.jpg>] [118 <./images/chapter8/tuxo.jpg>]
-[119 <./images/chapter8/tessuti_stampati.jpg>] [120 <./images/chapter8/pagina_p
-ubblicitaria_fioclin.jpg>] [121 <./images/chapter8/telene.jpg>] [122 <./images/
-chapter8/radiosa.jpg>] [123 <./images/chapter8/radiosa_tuxo.jpg>] [124 <./image
-s/chapter8/vestite_di_tuxo.jpg>] [125 <./images/chapter8/la_moda.jpg>] [126 <./
-images/chapter8/locandina.jpg>] [127 <./images/chapter8/biancaneve.jpg>]
-[128 <./images/chapter8/boccasile.jpg>] [129 <./images/chapter8/cartolina_1.jpg
->] [130 <./images/chapter8/cartolina_2.jpg>] [131 <./images/chapter8/cartolina_
-3.jpg>] [132 <./images/chapter8/cartolina_4.jpg>] [133 <./images/chapter8/carto
-lina_5.jpg>] [134 <./images/chapter8/cartolina_6.jpg>] [135 <./images/chapter8/
-cartolina_finale.jpg>] [136 <./images/chapter8/deangeli_1.jpg>] [137 <./images/
-chapter8/deangeli_2.jpg>] [138 <./images/chapter8/deangeli_3.jpg>])
+[123 <./images/chapter8/mani_di_fata.jpg>] [124 <./images/chapter8/tuxo.jpg>]
+[125 <./images/chapter8/tessuti_stampati.jpg>] [126 <./images/chapter8/pagina_p
+ubblicitaria_fioclin.jpg>] [127 <./images/chapter8/telene.jpg>] [128 <./images/
+chapter8/radiosa.jpg>] [129 <./images/chapter8/radiosa_tuxo.jpg>] [130 <./image
+s/chapter8/vestite_di_tuxo.jpg>] [131 <./images/chapter8/la_moda.jpg>] [132 <./
+images/chapter8/locandina.jpg>] [133 <./images/chapter8/biancaneve.jpg>]
+[134 <./images/chapter8/boccasile.jpg>] [135 <./images/chapter8/cartolina_1.jpg
+>] [136 <./images/chapter8/cartolina_2.jpg>] [137 <./images/chapter8/cartolina_
+3.jpg>] [138 <./images/chapter8/cartolina_4.jpg>] [139 <./images/chapter8/carto
+lina_5.jpg>] [140 <./images/chapter8/cartolina_6.jpg>] [141 <./images/chapter8/
+cartolina_finale.jpg>] [142 <./images/chapter8/deangeli_1.jpg>] [143 <./images/
+chapter8/deangeli_2.jpg>] [144 <./images/chapter8/deangeli_3.jpg>])
 (./riferimenti/riferimenti.tex
 Capitolo 9.
-[139
+[145
 
 
 
-] [140]) (./un-secolo-di-tessuti.aux)
+] [146] [147]) (./un-secolo-di-tessuti.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 21.0755pt have occurred.
@@ -2591,11 +2559,11 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 5709 strings out of 493029
- 93494 string characters out of 6136235
- 148907 words of memory out of 5000000
- 9010 multiletter control sequences out of 15000+600000
- 26899 words of font info for 25 fonts, out of 8000000 for 9000
+ 5716 strings out of 493029
+ 93619 string characters out of 6136235
+ 146938 words of memory out of 5000000
+ 9014 multiletter control sequences out of 15000+600000
+ 29897 words of font info for 26 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  37i,6n,23p,1616b,284s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ts1.enc}{/usr/share/texmf/fonts/enc/d
@@ -2604,10 +2572,10 @@ usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/
 public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.pfb></usr/sha
 re/texmf/fonts/type1/public/lm/lmro10.pfb></usr/share/texmf/fonts/type1/public/
 cm-super/sfrm3583.pfb>
-Output written on un-secolo-di-tessuti.pdf (140 pages, 45925641 bytes).
+Output written on un-secolo-di-tessuti.pdf (149 pages, 45931182 bytes).
 PDF statistics:
- 584 PDF objects out of 1000 (max. 8388607)
- 330 compressed objects within 4 object streams
+ 613 PDF objects out of 1000 (max. 8388607)
+ 350 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 500000)
  516 words of extra memory for PDF output out of 10000 (max. 10000000)
 

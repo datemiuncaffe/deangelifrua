@@ -1,0 +1,21 @@
+\begin{titlepage}
+{\centering
+  \fontfamily{gfsbodoni}
+  \fontseries{m}
+  \fontshape{n}
+  \fontsize{2cm}{1cm}
+  \selectfont
+De Angeli Frua
+  \par
+}
+\vspace{1cm}
+{\centering
+\fontsize{2cm}{1cm}
+  \selectfont
+De Angeli Frua
+  \par
+}
+
+\end{titlepage}
+
+\clearpage
